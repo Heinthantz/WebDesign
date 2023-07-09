@@ -1,0 +1,18 @@
+section h1{
+    color:rgb(6, 6, 5);
+    font-size: xx-large;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+section{
+    text-align: left;
+}
+*{
+    /* background-color: rgb(109, 211, 177); */
+    background-color: rgb(255, 255, 255);
+}
+nav{
+   text-align: right;
+   /* text-decoration: underline; */
+   font-size:large;
+}
